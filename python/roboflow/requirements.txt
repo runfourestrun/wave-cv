@@ -1,0 +1,15 @@
+#todo: freeze/version this.
+numpy
+pillow
+python-dotenv
+json
+base64
+typing
+google-auth
+google-cloud-storage
+requests
+beautifulsoup4
+fastapi
+uvicorn
+boto3
+pydantic
